@@ -1,0 +1,151 @@
+<resources>
+    <string name="app_name">Drawing Launcher</string>
+
+    <!-- common -->
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Ok</string>
+    <string name="back">Back</string>
+    <string name="system_msg">System Message</string>
+    <string name="empty">No item found</string>
+
+    <!-- Settings -->
+    <string name="set_title">Setting</string>
+
+    <string name="set_pattern_t">Pattern manager</string>
+    <string name="set_pattern_s">Add, Edit, Remove custom pattern for home screen of the launcher</string>
+    <string name="set_drawer_category_t">App categories</string>
+    <string name="set_drawer_category_s">Set app categories for drawer</string>
+    <string name="set_reset_t">Reset Launcher</string>
+    <string name="set_reset_s">Reset all settings for Launcher</string>
+
+    <string name="set_main_reset_dlg">Are you sure to reset all the settings?</string>
+
+    <string name="set_pat_add">Add</string>
+    <string name="set_pat_remove">Remove</string>
+    <string name="set_pat_item_dlg_con">Select action</string>
+    <string name="set_pat_item_dlg_pos">Change Pattern</string>
+    <string name="set_pat_item_dlg_neu">Remove Pattern</string>
+
+    <string name="set_pat_launcher_drawer">Open app drawer</string>
+    <string name="set_pat_launcher_setting">Open launcher settings</string>
+
+    <string name="set_pat_system_dialer">Open dialer</string>
+
+    <string name="set_wallpaper">Select Wallpaper</string>
+
+    <string name="set_draw_t">Select a option</string>
+    <string name="set_draw_rgba">Color and alpha</string>
+    <string name="set_draw_thick">Thickness</string>
+    <string name="set_draw_thick_t">Thickness</string>
+    <string name="set_draw_thick_s">Select thickness 0-200</string>
+
+    <string name="set_hscr_bg_t">Background Image</string>
+    <string name="set_hscr_bg_s">Set an image as background</string>
+    <string name="set_hscr_dr_t">Drawing</string>
+    <string name="set_hscr_dr_s">Select color and thickness of line</string>
+
+    <string name="set_dr_rowcol_t">Rows and Cols</string>
+    <string name="set_dr_rowcol_s">Select size of app drawer (3x3 to 6x6)</string>
+    <string name="set_dr_grtype_t">Sort Type</string>
+    <string name="set_dr_grtype_s">Select sort type how to show apps</string>
+    <string name="set_dr_method_t">Drawer Type</string>
+    <string name="set_dr_method_s">Change drawer style (All-in-One, Tab)</string>
+
+    <string name="set_rotate_t">Home orientation</string>
+    <string name="set_rotate_s">Select orientation of home application</string>
+    <string name="set_rotate_hor">Horizontal</string>
+    <string name="set_rotate_ver">Vertical</string>
+
+    <string name="set_about_t">About App</string>
+    <string name="set_about_s">Introduction for application</string>
+    <string name="set_about_d">"\nDrawing Launcher 1.0\nDeveloped by Arin (Twitter @prunusArin)\nhttp://arincblossom.github.io\n\nImages are all free from IconArchive"</string>
+
+    <!-- Category manage -->
+    <string name="catmgr_add">Add category</string>
+    <string name="catmgr_add_dlg_t">Add new category</string>
+    <string name="catmgr_add_dlg_s">Input the name of category. Duplicated name is not allowed</string>
+    <string name="catmgr_already">This category name exists already</string>
+    <string name="catmgr_allapp_sel">Basic category can not be edited</string>
+    <string name="catmgr_selection_title">Job for</string>
+    <string name="catmgr_selection_edit">Edit app list</string>
+    <string name="catmgr_selection_remove">Remove category</string>
+    <string name="catmgr_remove_cat">Remove category</string>
+    <string name="catmgr_remove_cat_d">Are you sure to remove category? (cannot un-do)</string>
+
+    <!-- App manage -->
+    <string name="appmgr_title">Category: </string>
+    <string name="appmgr_add">Add application</string>
+    <string name="appmgr_remove">Remove app from list</string>
+    <string name="appmgr_noapp">No apps added in the category</string>
+
+    <!-- First Run -->
+    <string name="btn_next">Next ></string>
+
+    <string name="firstrun_title">Drawing Launcher</string>
+    <string name="firstrun_1_con1">Draw your gesture</string>
+    <string name="firstrun_1_con2">
+        Open your apps with drawing gestures on the home screen.\nAlso on app drawer.
+    </string>
+
+    <string name="firstrun_2_con1">Add new gesture pattern</string>
+    <string name="firstrun_2_con2">
+        You can add new pattern for launcher features, apps, system setting.
+    </string>
+
+    <string name="firstrun_3_con1">Manage apps with category</string>
+    <string name="firstrun_3_con2">
+        If some apps are not used frequently, you can manage them as a category.
+    </string>
+
+    <string name="firstrun_4_title">Let\'s try</string>
+    <string name="firstrun_4_con1">Try to add new pattern for opening app drawer</string>
+    <string name="firstrun_4_con2">
+        Touch Next to add new pattern. Select \'Launcher Function\' then \'Open app drawer\'. And draw!
+    </string>
+
+    <string name="firstrun_cont_t">Congraturations!</string>
+    <string name="firstrun_cont_s">You successfully added your first gesture. Are you going to add one more gesture?\n(You can do it on launcher settings)</string>
+    <string name="firstrun_cont_p">Continue</string>
+
+    <string name="add_dlgfirst_title">Select work type</string>
+    <string name="add_dlgfirst_list_app">Execute App</string>
+    <string name="add_dlgfirst_list_system">System Function</string>
+    <string name="add_dlgfirst_list_system_dialer">Dialer</string>
+    <string name="add_dlgfirst_list_launcher">Launcher Function</string>
+
+    <string name="add_dlgapp_title">Select Application</string>
+
+    <string name="add_description">Draw pattern for:</string>
+    <string name="add_confirm">Add</string>
+    <string name="add_reset">If you want to change gesture, just redraw here</string>
+    <string name="add_cancel">Cancel</string>
+    <string name="add_nojob">No job selected, please try again</string>
+
+    <string name="add_sys_wifi">WiFi on/off</string>
+    <string name="add_sys_gps">GPS on/off</string>
+    <string name="add_sys_bt">Bluetooth on/off</string>
+    <string name="add_sys_airplane">Airplane Mode on/off</string>
+    <string name="add_sys_flash">Flash on/off</string>
+    <string name="add_sys_dialer">Dialer</string>
+
+    <string name="add_laf_drawer">Open App Drawer</string>
+    <string name="add_laf_option">Open Launcher Settings</string>
+    <string name="add_laf_newpattern">Add New Pattern</string>
+    <string name="add_laf_managepattern">Manage Pattern</string>
+
+    <!-- drawer -->
+    <string name="app_shortcut_add">Add pattern for this app</string>
+    <string name="app_shortcut_del">Remove this application</string>
+
+    <string name="app_rm_alert">Alert</string>
+    <string name="app_rm_t">You can not remove system app</string>
+
+    <string name="drawer_new_cat1">Touch to add</string>
+    <string name="drawer_new_cat2">NEW CATEGORY</string>
+
+    <!-- Executor -->
+    <string name="exec_app_no_t">Application not found</string>
+    <string name="exec_app_no_s">Application is uninstalled. Can I remove app from the list?</string>
+</resources>

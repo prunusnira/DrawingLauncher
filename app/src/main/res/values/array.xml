@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dlgfirst">
+        <item>@string/add_dlgfirst_list_app</item>
+        <item>@string/add_dlgfirst_list_system_dialer</item>
+        <item>@string/add_dlgfirst_list_launcher</item>
+    </string-array>
+</resources>
